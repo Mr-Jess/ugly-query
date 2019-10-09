@@ -14,6 +14,7 @@ const newParagraph = document.querySelector('p');
 newParagraph.style.color = 'yellow';
 newParagraph.style.fontFamily = 'zapfino';
 newParagraph.style.fontSize = '25px';
+newParagraph.style.backgroundImage = 'url("https://d1ic4altzx8ueg.cloudfront.net/finder-au/wp-uploads/2018/07/multiplafet.jpg)';
 
 const margin = document.querySelector('li');
 margin.style.color = 'pink';
@@ -28,6 +29,6 @@ const things = document.querySelector('ol');
 things.style.color = 'limegreen';
 things.style.fontSize = '70px';
 
-const image1 = document.querySelector('#img')
-image1.style.backgroundImage = 'url("https://img.itch.zone/aW1hZ2UyL2phbS80NTE2LzcyNDg5Ni5qcGc=/original/D0uLDW.jpg)';
+const newButton = document.querySelector('button');
+newButton.style.color = 'red';
 
