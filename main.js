@@ -38,3 +38,4 @@ things.style.fontSize = '70px';
 
 const newButton = document.querySelector('button');
 newButton.style.color = 'red';
+newButton.style.fontSize = '100px'
