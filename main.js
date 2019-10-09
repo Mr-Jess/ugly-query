@@ -18,7 +18,7 @@ const newParagraph = document.querySelector('p');
 newParagraph.style.color = 'yellow';
 newParagraph.style.fontFamily = 'zapfino';
 newParagraph.style.fontSize = '25px';
-newParagraph.style.backgroundImage = 'url("https://d1ic4altzx8ueg.cloudfront.net/finder-au/wp-uploads/2018/07/multiplafet.jpg")';
+newParagraph.style.backgroundImage = 'url("https://media.npr.org/assets/img/2013/09/12/blobfish122way_custom-dd3fcd75ff56be0187f975e6bdcff58fc8188863-s800-c85.jpg")';
 newParagraph.style.height = '300px';
 
 const margin = document.querySelector('li');
