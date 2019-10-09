@@ -28,13 +28,15 @@ margin.style.fontSize = '100px';
 margin.style.backgroundImage = 'url("https://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif")';
 margin.style.height = '300px';
 
-const newHeader3 = document.querySelector('ul');
-newHeader3.style.color = 'orange';
-newHeader3.style.fontSize = '11px';
+const list1 = document.querySelector('ul');
+list1.style.color = 'orange';
+list1.style.fontSize = '10px';
+//fontSize not responding
 
-const things = document.querySelector('ol');
-things.style.color = 'limegreen';
-things.style.fontSize = '70px';
+const list2 = document.querySelector('ol');
+list2.style.color = 'limegreen';
+list2.style.fontSize = '70px';
+//fontSize not responding
 
 const newButton = document.querySelector('button');
 newButton.style.color = 'red';
