@@ -39,3 +39,9 @@ things.style.fontSize = '70px';
 const newButton = document.querySelector('button');
 newButton.style.color = 'red';
 newButton.style.fontSize = '100px'
+
+const newText = document.querySelector('textarea');
+newText.style.color = 'yellow';
+newText.style.fontSize = '30px'
+newText.style.backgroundImage = 'url("https://media.giphy.com/media/26tP3M3i03hoIYL6M/giphy.gif")';
+newText.style.height = '300px';
